@@ -4,9 +4,9 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Answer goes here
+> Morgan Bracey
 
 
 ### What is your favorite color?
 
-> Answer goes here
+> Purple
